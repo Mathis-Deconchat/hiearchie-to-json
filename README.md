@@ -1,5 +1,5 @@
 # Hiearchie to JSON
-Le but étant de convertir un structure hiéarchique textuelle du format \
+Le but étant de convertir un structure hiéarchique textuelle du format 
 ```[
     'OU=France,OU=root',
     'OU=Paris,OU=France,OU=root',
@@ -12,7 +12,7 @@ Le but étant de convertir un structure hiéarchique textuelle du format \
     'OU=Liverpool,OU=Angleterre,OU=root']
 ```
 
-en\
+en
  ```
 [
     {
